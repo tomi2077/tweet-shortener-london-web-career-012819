@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def dictionary
   convert = {"hello" => "hi", "to" => "2", "two" => "2", 
   "too" => "2", "for" => "4", "four" => "4", "be" => "b", 
@@ -40,3 +41,5 @@ def shortened_tweet_truncator(tweet)
     end
   end.join(" ")
 end
+=======
+>>>>>>> e6be08828531572e3796e390320a3f9869591211
